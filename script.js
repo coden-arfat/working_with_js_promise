@@ -1,4 +1,4 @@
-console.log('hello world')
+console.log('hello world this is just a pratics program')
 const promise = new Promise((resolve,reject)=>{
   let isGood = false
   if(isGood===true){
@@ -7,7 +7,6 @@ const promise = new Promise((resolve,reject)=>{
    reject('unsuccessful promise')
   }
 })
-
 promise.then((value)=>{
   console.log(value)
 },(error)=>{
