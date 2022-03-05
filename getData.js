@@ -1,4 +1,4 @@
-/* note this method is useful when you working node , you can't see output in browser console 
+/* note this method is useful when you work on node , you can't see output in browser console 
 
 
 const data = require('./Data.json');
@@ -8,7 +8,7 @@ console.log(data.arfat);
 
 /* 
 
-let display data in browser console 
+let is display data in browser console 
 
 */
 
