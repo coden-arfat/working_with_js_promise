@@ -1,3 +1,2 @@
-import data from './data'
-
-console.log(data)
+const mainData =require('./Data.js')
+console.log(mainData)
