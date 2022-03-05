@@ -1,10 +1,10 @@
 /* note this method is useful when you work on node , you can't see output in browser console 
 
+*/
 
 const data = require('./Data.json');
 console.log(data.arfat);
 
-*/
 
 /* 
 
